@@ -4,10 +4,12 @@
 #### Loiuse play "Fever" came close to its fundraising goal in a short amount of time. Louise's needed a analysis to show how different compaigns fared in relation to their launch dates and their funding goal
 
 # Analysis and Challenges
-### Analysis: I did some analysis by following the steps from the instruction in the module. I debugged by googling and watching videos from the module. I was able use google to find out how to calculate the percentage of outcomes based on goal. Please find image below.
+### Analysis:
+#### I did some analysis by following the steps from the instruction in the module. I debugged by googling and watching videos from the module. I was able use google to find out how to calculate the percentage of outcomes based on goal. Please find image below.
 ![image](https://user-images.githubusercontent.com/22004826/111824780-a2197400-88b4-11eb-811b-18e3d4025b04.png)
 
-### Challenges: One major challenge i encountered was i was getting zero(0) for all subcategory plays that were failed. I thought i was doing something wrong but i figured it out by filtering through the kick starter dataset and realised that there were not failed compaigns in the play subcategory. Please find image below
+### Challenges: 
+#### One major challenge i encountered was i was getting zero(0) for all subcategory plays that were failed. I thought i was doing something wrong but i figured it out by filtering through the kick starter dataset and realised that there were not failed compaigns in the play subcategory. Please find image below
 ![image](https://user-images.githubusercontent.com/22004826/111826318-89aa5900-88b6-11eb-8bf9-eda17c2a594b.png)
 
 
