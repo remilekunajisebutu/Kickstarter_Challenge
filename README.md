@@ -18,7 +18,7 @@
 - Theater Campaigns in parent category that are done during the month of may and june are usuallly successfully
 - The number of failed compaigns are almost half of the successful compaigns. 
 #### 2. Based on the analysis shown, there are no cancelled plays compaigned. The success rate seems to be high when the goal is less than 1000 and betweeen the range of 1000 to 4999
-#### 3. Some of the limitation of the dataset is that its too information and there are some fields that were not relevant for the analysis
+#### 3. Some of the limitation of the dataset is that there are too information which made the file too large and there are some fields that were not relevant for the analysis
 #### 4. We could create analysis based on Staff pick
 
 
